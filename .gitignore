@@ -1,0 +1,16 @@
+# Local runtime/build output; all project pages, original assets and backups stay tracked.
+dist/
+.vercel/
+node_modules/
+__pycache__/
+*.py[cod]
+error_log
+*.log
+.ftpquota
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key

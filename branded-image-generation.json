@@ -1,0 +1,211 @@
+[
+  {
+    "topic": "logistics-hero",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-059455c6-7506-47af-a649-b167b32afba2.png",
+    "target": "img/redesign/logistics-hero-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is the edit target; Image 2 is the exact DHLR Express logo reference, not a second scene. Preserve Image 1's aspect ratio, composition, people, faces, objects, lighting, colours and photograph. Add the actual supplied logo onto ALL clearly visible cardboard box faces and wooden crate faces, and onto every visible moving truck/van/container transport side panel or cab door. Copy the logo faithfully: italic DHLREXPRESS wordmark, red lettering with its navy details, and the small navy tagline 'RELOCATION & LOGISTICS SOLUTION'. Do not invent a different font or spelling. Boxes should have neat realistic printed red/navy logos centered on suitable flat faces at natural packaging-label scale, aligned to each face's perspective. Trucks should have professional crisp white-backed vinyl logo signage on the existing red side panels and an appropriately small matching cab-door decal. Match perspective, panel corrugation, illumination and occlusion; hands, straps and shrink-wrap must naturally overlap the markings. Large foreground logos must be readable. Distant boxes should receive restrained matching marks at realistic scale. Do not add floating logos, watermarks, new vehicles, new cartons, new people or graphics in the left text space. Branding should look physically printed and professionally installed.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "home-hero",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-1275932d-8b7e-4941-aff8-8a902bceb697.png",
+    "target": "img/redesign/home-hero-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is the edit target; Image 2 is the exact DHLR Express logo reference, not a second scene. Preserve Image 1's aspect ratio, composition, people, faces, objects, lighting, colours and photograph. Add the actual supplied logo onto ALL clearly visible cardboard box faces and wooden crate faces, and onto every visible moving truck/van/container transport side panel or cab door. Copy the logo faithfully: italic DHLREXPRESS wordmark, red lettering with its navy details, and the small navy tagline 'RELOCATION & LOGISTICS SOLUTION'. Do not invent a different font or spelling. Boxes should have neat realistic printed red/navy logos centered on suitable flat faces at natural packaging-label scale, aligned to each face's perspective. Trucks should have professional crisp white-backed vinyl logo signage on the existing red side panels and an appropriately small matching cab-door decal. Match perspective, panel corrugation, illumination and occlusion; hands, straps and shrink-wrap must naturally overlap the markings. Large foreground logos must be readable. Distant boxes should receive restrained matching marks at realistic scale. Do not add floating logos, watermarks, new vehicles, new cartons, new people or graphics in the left text space. Branding should look physically printed and professionally installed.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "about-team",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-5fc88fac-5d4c-46cc-babc-fb210085789d.png",
+    "target": "img/redesign/about-team-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is the edit target; Image 2 is the exact DHLR Express logo reference, not a second scene. Preserve Image 1's aspect ratio, composition, people, faces, objects, lighting, colours and photograph. Add the actual supplied logo onto ALL clearly visible cardboard box faces and wooden crate faces, and onto every visible moving truck/van/container transport side panel or cab door. Copy the logo faithfully: italic DHLREXPRESS wordmark, red lettering with its navy details, and the small navy tagline 'RELOCATION & LOGISTICS SOLUTION'. Do not invent a different font or spelling. Boxes should have neat realistic printed red/navy logos centered on suitable flat faces at natural packaging-label scale, aligned to each face's perspective. Trucks should have professional crisp white-backed vinyl logo signage on the existing red side panels and an appropriately small matching cab-door decal. Match perspective, panel corrugation, illumination and occlusion; hands, straps and shrink-wrap must naturally overlap the markings. Large foreground logos must be readable. Distant boxes should receive restrained matching marks at realistic scale. Do not add floating logos, watermarks, new vehicles, new cartons, new people or graphics in the left text space. Branding should look physically printed and professionally installed.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "warehouse-storage",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-f0bab895-36d6-4823-a43b-014f59eed782.png",
+    "target": "img/redesign/warehouse-storage-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is the edit target; Image 2 is the exact DHLR Express logo reference, not a second scene. Preserve Image 1's aspect ratio, composition, people, faces, objects, lighting, colours and photograph. Add the actual supplied logo onto ALL clearly visible cardboard box faces and wooden crate faces, and onto every visible moving truck/van/container transport side panel or cab door. Copy the logo faithfully: italic DHLREXPRESS wordmark, red lettering with its navy details, and the small navy tagline 'RELOCATION & LOGISTICS SOLUTION'. Do not invent a different font or spelling. Boxes should have neat realistic printed red/navy logos centered on suitable flat faces at natural packaging-label scale, aligned to each face's perspective. Trucks should have professional crisp white-backed vinyl logo signage on the existing red side panels and an appropriately small matching cab-door decal. Match perspective, panel corrugation, illumination and occlusion; hands, straps and shrink-wrap must naturally overlap the markings. Large foreground logos must be readable. Distant boxes should receive restrained matching marks at realistic scale. Do not add floating logos, watermarks, new vehicles, new cartons, new people or graphics in the left text space. Branding should look physically printed and professionally installed.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "vehicle-transport",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-75937b7e-9cbd-4a72-8d56-e7761bea0aa2.png",
+    "target": "img/redesign/vehicle-transport-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact company logo reference. Keep photo composition, aspect ratio, people, faces, lighting, scenery and equipment identical. Faithfully reproduce supplied DHLREXPRESS italic red/navy logo with small tagline 'RELOCATION & LOGISTICS SOLUTION' onto every clearly visible cardboard carton and wooden crate face. Apply realistic packaging-scale prints aligned to box perspective and lighting, behind hands, straps and wrapping. Add crisp professional white-backed vinyl versions to all moving truck/container/van side panels and appropriately sized cab doors; on open car-carrier trucks place decals on existing cab and flat trailer rails without adding panels or branding customers' cars. For the industrial scene add the logo on the wooden shipping platform and moving vehicle, never onto customers' machinery. Exact supplied mark, no alternate spelling or invented font. Large foreground logos must be readable. Smaller distant ones should have naturally reduced detail. No floating logo, watermark, added objects or text in left headline space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg",
+    "correction_prompt": "Use case: precise-object-edit. Perform one small correction to this photo: remove the DHLREXPRESS logo from the WHITE CUSTOMER SEDAN'S DOORS only, restoring clean uninterrupted white automotive paint with original reflections. The transported car is a customer's car and must remain unbranded. Keep EVERY existing DHLR Express logo on the red car-carrier truck, its cab, trailer rails, ramps and background trucks exactly as it is. Preserve all other photo details, people, composition, framing, dimensions and lighting. Do not add anything or remove branding from the moving company's transport truck."
+  },
+  {
+    "topic": "office-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-c55e294d-fc53-4188-adf6-62c6232736f1.png",
+    "target": "img/redesign/office-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact company logo reference. Keep photo composition, aspect ratio, people, faces, lighting, scenery and equipment identical. Faithfully reproduce supplied DHLREXPRESS italic red/navy logo with small tagline 'RELOCATION & LOGISTICS SOLUTION' onto every clearly visible cardboard carton and wooden crate face. Apply realistic packaging-scale prints aligned to box perspective and lighting, behind hands, straps and wrapping. Add crisp professional white-backed vinyl versions to all moving truck/container/van side panels and appropriately sized cab doors; on open car-carrier trucks place decals on existing cab and flat trailer rails without adding panels or branding customers' cars. For the industrial scene add the logo on the wooden shipping platform and moving vehicle, never onto customers' machinery. Exact supplied mark, no alternate spelling or invented font. Large foreground logos must be readable. Smaller distant ones should have naturally reduced detail. No floating logo, watermark, added objects or text in left headline space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "corporate-relocation",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-0694b983-d28d-4a7b-85ab-3c9527927d31.png",
+    "target": "img/redesign/corporate-relocation-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact company logo reference. Keep photo composition, aspect ratio, people, faces, lighting, scenery and equipment identical. Faithfully reproduce supplied DHLREXPRESS italic red/navy logo with small tagline 'RELOCATION & LOGISTICS SOLUTION' onto every clearly visible cardboard carton and wooden crate face. Apply realistic packaging-scale prints aligned to box perspective and lighting, behind hands, straps and wrapping. Add crisp professional white-backed vinyl versions to all moving truck/container/van side panels and appropriately sized cab doors; on open car-carrier trucks place decals on existing cab and flat trailer rails without adding panels or branding customers' cars. For the industrial scene add the logo on the wooden shipping platform and moving vehicle, never onto customers' machinery. Exact supplied mark, no alternate spelling or invented font. Large foreground logos must be readable. Smaller distant ones should have naturally reduced detail. No floating logo, watermark, added objects or text in left headline space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "industrial-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-a19370e1-cd53-49a7-a492-78006dfc2833.png",
+    "target": "img/redesign/industrial-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact company logo reference. Keep photo composition, aspect ratio, people, faces, lighting, scenery and equipment identical. Faithfully reproduce supplied DHLREXPRESS italic red/navy logo with small tagline 'RELOCATION & LOGISTICS SOLUTION' onto every clearly visible cardboard carton and wooden crate face. Apply realistic packaging-scale prints aligned to box perspective and lighting, behind hands, straps and wrapping. Add crisp professional white-backed vinyl versions to all moving truck/container/van side panels and appropriately sized cab doors; on open car-carrier trucks place decals on existing cab and flat trailer rails without adding panels or branding customers' cars. For the industrial scene add the logo on the wooden shipping platform and moving vehicle, never onto customers' machinery. Exact supplied mark, no alternate spelling or invented font. Large foreground logos must be readable. Smaller distant ones should have naturally reduced detail. No floating logo, watermark, added objects or text in left headline space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "fine-art-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-45b3e7b9-8581-4b49-8bbe-532d6653a30a.png",
+    "target": "img/redesign/fine-art-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact DHLR Express logo reference. Preserve target's framing, aspect ratio, people, faces, objects, light and quality. Brand ALL visible cardboard carton faces, wooden shipping crates and dark moving transport cases with the exact supplied italic red/navy DHLREXPRESS mark and smaller navy 'RELOCATION & LOGISTICS SOLUTION' tagline. Copy the visual logo faithfully with correct spelling, shape and colours. For boxes/crates use printed packaging logos or realistically attached small white labels where necessary; center neatly on appropriate flat faces, natural restrained scale. On visible truck/container/cab surfaces use crisp professional white-backed vinyl signage. Match perspective, surface texture, lighting, shrink wrap, straps and occlusion. Foreground mark must be clearly readable. Distant markings reduced naturally. Never brand customer artworks, paintings, vase or machinery. No new objects, giant logo overlays, watermarks or text in left title space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "professional-packing",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-19a11e61-8589-48db-8643-221e0340812c.png",
+    "target": "img/redesign/professional-packing-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact DHLR Express logo reference. Preserve target's framing, aspect ratio, people, faces, objects, light and quality. Brand ALL visible cardboard carton faces, wooden shipping crates and dark moving transport cases with the exact supplied italic red/navy DHLREXPRESS mark and smaller navy 'RELOCATION & LOGISTICS SOLUTION' tagline. Copy the visual logo faithfully with correct spelling, shape and colours. For boxes/crates use printed packaging logos or realistically attached small white labels where necessary; center neatly on appropriate flat faces, natural restrained scale. On visible truck/container/cab surfaces use crisp professional white-backed vinyl signage. Match perspective, surface texture, lighting, shrink wrap, straps and occlusion. Foreground mark must be clearly readable. Distant markings reduced naturally. Never brand customer artworks, paintings, vase or machinery. No new objects, giant logo overlays, watermarks or text in left title space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "wooden-crates",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-c44cca4b-493a-41d0-86d7-1a8d0ef22f2c.png",
+    "target": "img/redesign/wooden-crates-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact DHLR Express logo reference. Preserve target's framing, aspect ratio, people, faces, objects, light and quality. Brand ALL visible cardboard carton faces, wooden shipping crates and dark moving transport cases with the exact supplied italic red/navy DHLREXPRESS mark and smaller navy 'RELOCATION & LOGISTICS SOLUTION' tagline. Copy the visual logo faithfully with correct spelling, shape and colours. For boxes/crates use printed packaging logos or realistically attached small white labels where necessary; center neatly on appropriate flat faces, natural restrained scale. On visible truck/container/cab surfaces use crisp professional white-backed vinyl signage. Match perspective, surface texture, lighting, shrink wrap, straps and occlusion. Foreground mark must be clearly readable. Distant markings reduced naturally. Never brand customer artworks, paintings, vase or machinery. No new objects, giant logo overlays, watermarks or text in left title space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "export-packing",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-ca9ac735-7271-4a09-b552-8a07dd2a1602.png",
+    "target": "img/redesign/export-packing-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target photo, Image 2 is exact DHLR Express logo reference. Preserve target's framing, aspect ratio, people, faces, objects, light and quality. Brand ALL visible cardboard carton faces, wooden shipping crates and dark moving transport cases with the exact supplied italic red/navy DHLREXPRESS mark and smaller navy 'RELOCATION & LOGISTICS SOLUTION' tagline. Copy the visual logo faithfully with correct spelling, shape and colours. For boxes/crates use printed packaging logos or realistically attached small white labels where necessary; center neatly on appropriate flat faces, natural restrained scale. On visible truck/container/cab surfaces use crisp professional white-backed vinyl signage. Match perspective, surface texture, lighting, shrink wrap, straps and occlusion. Foreground mark must be clearly readable. Distant markings reduced naturally. Never brand customer artworks, paintings, vase or machinery. No new objects, giant logo overlays, watermarks or text in left title space.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "commercial-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-313d8b33-5bf0-45eb-91cc-2a04dd404c0e.png",
+    "target": "img/redesign/commercial-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 edit target, Image 2 exact supplied DHLR Express brand mark. Preserve photograph exactly except branding: framing, aspect ratio, people, cargo, equipment, light and shadows. Add exact italic DHLREXPRESS red/navy wordmark with navy small tagline 'RELOCATION & LOGISTICS SOLUTION' on all visible shipping cartons and crates using neat natural-scale printed labels. Add accurately copied white-backed vinyl logo signs to the moving truck or freight container's flat side and cab; for low-bed oversized transport use existing flat red trailer chassis rails, rear panel and cab, without adding new panels. Match surface perspective, corrugation, lighting and occlusion. Cardboard/crates remain real cardboard/wood, truck remains same truck. Do not brand customers' refrigerators or industrial turbine/cargo. No extra vehicles, new boxes, floating logos, different brand wording, watermarks or changes in empty left headline area. Foreground logos readable and visually match Image 2.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "container-transport",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-2250558b-11fc-4c74-b5c8-c5756fda7c23.png",
+    "target": "img/redesign/container-transport-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 edit target, Image 2 exact supplied DHLR Express brand mark. Preserve photograph exactly except branding: framing, aspect ratio, people, cargo, equipment, light and shadows. Add exact italic DHLREXPRESS red/navy wordmark with navy small tagline 'RELOCATION & LOGISTICS SOLUTION' on all visible shipping cartons and crates using neat natural-scale printed labels. Add accurately copied white-backed vinyl logo signs to the moving truck or freight container's flat side and cab; for low-bed oversized transport use existing flat red trailer chassis rails, rear panel and cab, without adding new panels. Match surface perspective, corrugation, lighting and occlusion. Cardboard/crates remain real cardboard/wood, truck remains same truck. Do not brand customers' refrigerators or industrial turbine/cargo. No extra vehicles, new boxes, floating logos, different brand wording, watermarks or changes in empty left headline area. Foreground logos readable and visually match Image 2.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "supply-chain",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-94c62846-b3b8-482f-9753-b94441993c90.png",
+    "target": "img/redesign/supply-chain-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 edit target, Image 2 exact supplied DHLR Express brand mark. Preserve photograph exactly except branding: framing, aspect ratio, people, cargo, equipment, light and shadows. Add exact italic DHLREXPRESS red/navy wordmark with navy small tagline 'RELOCATION & LOGISTICS SOLUTION' on all visible shipping cartons and crates using neat natural-scale printed labels. Add accurately copied white-backed vinyl logo signs to the moving truck or freight container's flat side and cab; for low-bed oversized transport use existing flat red trailer chassis rails, rear panel and cab, without adding new panels. Match surface perspective, corrugation, lighting and occlusion. Cardboard/crates remain real cardboard/wood, truck remains same truck. Do not brand customers' refrigerators or industrial turbine/cargo. No extra vehicles, new boxes, floating logos, different brand wording, watermarks or changes in empty left headline area. Foreground logos readable and visually match Image 2.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "oversized-transport",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-5bb8cb05-e62b-4954-aa84-6aa49a583034.png",
+    "target": "img/redesign/oversized-transport-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 edit target, Image 2 exact supplied DHLR Express brand mark. Preserve photograph exactly except branding: framing, aspect ratio, people, cargo, equipment, light and shadows. Add exact italic DHLREXPRESS red/navy wordmark with navy small tagline 'RELOCATION & LOGISTICS SOLUTION' on all visible shipping cartons and crates using neat natural-scale printed labels. Add accurately copied white-backed vinyl logo signs to the moving truck or freight container's flat side and cab; for low-bed oversized transport use existing flat red trailer chassis rails, rear panel and cab, without adding new panels. Match surface perspective, corrugation, lighting and occlusion. Cardboard/crates remain real cardboard/wood, truck remains same truck. Do not brand customers' refrigerators or industrial turbine/cargo. No extra vehicles, new boxes, floating logos, different brand wording, watermarks or changes in empty left headline area. Foreground logos readable and visually match Image 2.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "international-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-ad7cf90f-634d-4381-bc09-533eae41c3bf.png",
+    "target": "img/redesign/international-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target scene and Image 2 the supplied logo reference. Retain target photo's composition, size ratio, people, faces, furniture, scenery, lighting and mood. Faithfully copy supplied DHLREXPRESS italic red/navy wordmark and small navy tagline 'RELOCATION & LOGISTICS SOLUTION' onto every visible cardboard box and wooden shipping crate. Use neat realistic packaging-scale printing centered on suitable faces, perspective aligned, correctly occluded by hands and straps. Brand every visible red moving truck/van/container side panel and cab door with crisp white-backed vinyl logo signage. If a truck side is open, brand existing side frame and cab, without covering its opening or adding panels. Larger foreground marks readable; distant logos naturally smaller. Preserve shadows, material textures and corrugation. No customer furniture or artwork branding, no logo floating over scene, no watermark, no new boxes, no added text in left headline area. Copy exact mark rather than inventing wording or font.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "domestic-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-ca378667-7fd9-45fa-ad34-20b9334f23b4.png",
+    "target": "img/redesign/domestic-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target scene and Image 2 the supplied logo reference. Retain target photo's composition, size ratio, people, faces, furniture, scenery, lighting and mood. Faithfully copy supplied DHLREXPRESS italic red/navy wordmark and small navy tagline 'RELOCATION & LOGISTICS SOLUTION' onto every visible cardboard box and wooden shipping crate. Use neat realistic packaging-scale printing centered on suitable faces, perspective aligned, correctly occluded by hands and straps. Brand every visible red moving truck/van/container side panel and cab door with crisp white-backed vinyl logo signage. If a truck side is open, brand existing side frame and cab, without covering its opening or adding panels. Larger foreground marks readable; distant logos naturally smaller. Preserve shadows, material textures and corrugation. No customer furniture or artwork branding, no logo floating over scene, no watermark, no new boxes, no added text in left headline area. Copy exact mark rather than inventing wording or font.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "relocation-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-7f90908d-f40f-4871-8574-dde6a158b9f4.png",
+    "target": "img/redesign/relocation-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target scene and Image 2 the supplied logo reference. Retain target photo's composition, size ratio, people, faces, furniture, scenery, lighting and mood. Faithfully copy supplied DHLREXPRESS italic red/navy wordmark and small navy tagline 'RELOCATION & LOGISTICS SOLUTION' onto every visible cardboard box and wooden shipping crate. Use neat realistic packaging-scale printing centered on suitable faces, perspective aligned, correctly occluded by hands and straps. Brand every visible red moving truck/van/container side panel and cab door with crisp white-backed vinyl logo signage. If a truck side is open, brand existing side frame and cab, without covering its opening or adding panels. Larger foreground marks readable; distant logos naturally smaller. Preserve shadows, material textures and corrugation. No customer furniture or artwork branding, no logo floating over scene, no watermark, no new boxes, no added text in left headline area. Copy exact mark rather than inventing wording or font.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "moving-services",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-6f609cb5-166c-4b71-a459-27ac04edefe3.png",
+    "target": "img/redesign/moving-services-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Image 1 is target scene and Image 2 the supplied logo reference. Retain target photo's composition, size ratio, people, faces, furniture, scenery, lighting and mood. Faithfully copy supplied DHLREXPRESS italic red/navy wordmark and small navy tagline 'RELOCATION & LOGISTICS SOLUTION' onto every visible cardboard box and wooden shipping crate. Use neat realistic packaging-scale printing centered on suitable faces, perspective aligned, correctly occluded by hands and straps. Brand every visible red moving truck/van/container side panel and cab door with crisp white-backed vinyl logo signage. If a truck side is open, brand existing side frame and cab, without covering its opening or adding panels. Larger foreground marks readable; distant logos naturally smaller. Preserve shadows, material textures and corrugation. No customer furniture or artwork branding, no logo floating over scene, no watermark, no new boxes, no added text in left headline area. Copy exact mark rather than inventing wording or font.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "nationwide-network",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-520723c0-6406-4a49-9822-9de3f864496a.png",
+    "target": "img/redesign/nationwide-network-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Input 1 target photograph. Input 2 exact company logo. Edit only branding while retaining all original scene geometry, panoramic aspect ratio, people, faces, lighting, equipment and image quality. Put the exact supplied italic DHLREXPRESS red/navy mark and tiny navy tagline 'RELOCATION & LOGISTICS SOLUTION' on every clearly visible moving box/carton face and shipping crate. Neat realistic packaging print at proportional size, correct face perspective and occlusion by hands, tape and straps. Apply professional white-backed vinyl logo signage on all visible moving truck/van side panels, rear doors and appropriately small cab-door decals. Preserve truck openings and body structures. Close foreground logos sharp and legible; distant ones reduced to matching plausible scale, never huge. Match supplied wordmark colours, letter shapes and spelling. No logos on customer's furniture, no floating marks, no watermarks, no additional objects or captions, keep left headline space clear.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "move-delivered",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-bb62d76e-bd17-4662-9069-bde2a0f589b8.png",
+    "target": "img/redesign/move-delivered-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Input 1 target photograph. Input 2 exact company logo. Edit only branding while retaining all original scene geometry, panoramic aspect ratio, people, faces, lighting, equipment and image quality. Put the exact supplied italic DHLREXPRESS red/navy mark and tiny navy tagline 'RELOCATION & LOGISTICS SOLUTION' on every clearly visible moving box/carton face and shipping crate. Neat realistic packaging print at proportional size, correct face perspective and occlusion by hands, tape and straps. Apply professional white-backed vinyl logo signage on all visible moving truck/van side panels, rear doors and appropriately small cab-door decals. Preserve truck openings and body structures. Close foreground logos sharp and legible; distant ones reduced to matching plausible scale, never huge. Match supplied wordmark colours, letter shapes and spelling. No logos on customer's furniture, no floating marks, no watermarks, no additional objects or captions, keep left headline space clear.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "city-metro-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-c752615d-0026-43a1-a4b4-45719fd5e48b.png",
+    "target": "img/redesign/city-metro-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Input 1 target photograph. Input 2 exact company logo. Edit only branding while retaining all original scene geometry, panoramic aspect ratio, people, faces, lighting, equipment and image quality. Put the exact supplied italic DHLREXPRESS red/navy mark and tiny navy tagline 'RELOCATION & LOGISTICS SOLUTION' on every clearly visible moving box/carton face and shipping crate. Neat realistic packaging print at proportional size, correct face perspective and occlusion by hands, tape and straps. Apply professional white-backed vinyl logo signage on all visible moving truck/van side panels, rear doors and appropriately small cab-door decals. Preserve truck openings and body structures. Close foreground logos sharp and legible; distant ones reduced to matching plausible scale, never huge. Match supplied wordmark colours, letter shapes and spelling. No logos on customer's furniture, no floating marks, no watermarks, no additional objects or captions, keep left headline space clear.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "city-coastal-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-8e0417f5-5d78-4e2f-a78d-9148a3d15a62.png",
+    "target": "img/redesign/city-coastal-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Input 1 target photograph. Input 2 exact company logo. Edit only branding while retaining all original scene geometry, panoramic aspect ratio, people, faces, lighting, equipment and image quality. Put the exact supplied italic DHLREXPRESS red/navy mark and tiny navy tagline 'RELOCATION & LOGISTICS SOLUTION' on every clearly visible moving box/carton face and shipping crate. Neat realistic packaging print at proportional size, correct face perspective and occlusion by hands, tape and straps. Apply professional white-backed vinyl logo signage on all visible moving truck/van side panels, rear doors and appropriately small cab-door decals. Preserve truck openings and body structures. Close foreground logos sharp and legible; distant ones reduced to matching plausible scale, never huge. Match supplied wordmark colours, letter shapes and spelling. No logos on customer's furniture, no floating marks, no watermarks, no additional objects or captions, keep left headline space clear.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "city-residential-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-9f75af7f-f479-4dfa-88e6-a8800a15b293.png",
+    "target": "img/redesign/city-residential-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Input 1 target photograph. Input 2 exact company logo. Edit only branding while retaining all original scene geometry, panoramic aspect ratio, people, faces, lighting, equipment and image quality. Put the exact supplied italic DHLREXPRESS red/navy mark and tiny navy tagline 'RELOCATION & LOGISTICS SOLUTION' on every clearly visible moving box/carton face and shipping crate. Neat realistic packaging print at proportional size, correct face perspective and occlusion by hands, tape and straps. Apply professional white-backed vinyl logo signage on all visible moving truck/van side panels, rear doors and appropriately small cab-door decals. Preserve truck openings and body structures. Close foreground logos sharp and legible; distant ones reduced to matching plausible scale, never huge. Match supplied wordmark colours, letter shapes and spelling. No logos on customer's furniture, no floating marks, no watermarks, no additional objects or captions, keep left headline space clear.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  },
+  {
+    "topic": "city-bangalore-moving",
+    "source": "C:\\Users\\Krunal\\.codex\\generated_images\\01a13527-c4b0-7081-b3c9-7768c998c88e\\exec-4f7b4149-4a0e-481e-a7ff-2c405e3e8b5e.png",
+    "target": "img/redesign/city-bangalore-moving-branded.jpg",
+    "prompt": "Use case: precise-object-edit. Input 1 target photograph. Input 2 exact company logo. Edit only branding while retaining all original scene geometry, panoramic aspect ratio, people, faces, lighting, equipment and image quality. Put the exact supplied italic DHLREXPRESS red/navy mark and tiny navy tagline 'RELOCATION & LOGISTICS SOLUTION' on every clearly visible moving box/carton face and shipping crate. Neat realistic packaging print at proportional size, correct face perspective and occlusion by hands, tape and straps. Apply professional white-backed vinyl logo signage on all visible moving truck/van side panels, rear doors and appropriately small cab-door decals. Preserve truck openings and body structures. Close foreground logos sharp and legible; distant ones reduced to matching plausible scale, never huge. Match supplied wordmark colours, letter shapes and spelling. No logos on customer's furniture, no floating marks, no watermarks, no additional objects or captions, keep left headline space clear.",
+    "tool": "built-in imagegen",
+    "reference_logo": "img/resources/transtar logo.jpg"
+  }
+]

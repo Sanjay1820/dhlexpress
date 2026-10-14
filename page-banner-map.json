@@ -1,0 +1,374 @@
+[
+  {
+    "page": "about-us.html",
+    "banner": "img/redesign/about-team-branded.jpg"
+  },
+  {
+    "page": "car-transportation.html",
+    "banner": "img/redesign/vehicle-transport-branded.jpg"
+  },
+  {
+    "page": "commercial-moving.html",
+    "banner": "img/redesign/commercial-moving-branded.jpg"
+  },
+  {
+    "page": "contact.html",
+    "banner": "img/redesign/contact-support.jpg"
+  },
+  {
+    "page": "container-service.html",
+    "banner": "img/redesign/container-transport-branded.jpg"
+  },
+  {
+    "page": "corporate-relocation.html",
+    "banner": "img/redesign/corporate-relocation-branded.jpg"
+  },
+  {
+    "page": "domastic.html",
+    "banner": "img/redesign/domestic-moving-branded.jpg"
+  },
+  {
+    "page": "exhibition-and-fine-art-moving.html",
+    "banner": "img/redesign/fine-art-moving-branded.jpg"
+  },
+  {
+    "page": "export-packaging.html",
+    "banner": "img/redesign/export-packing-branded.jpg"
+  },
+  {
+    "page": "house-relocation.html",
+    "banner": "img/redesign/home-hero-branded.jpg"
+  },
+  {
+    "page": "industrial-relocation.html",
+    "banner": "img/redesign/industrial-moving-branded.jpg"
+  },
+  {
+    "page": "international.html",
+    "banner": "img/redesign/international-moving-branded.jpg"
+  },
+  {
+    "page": "logistics.html",
+    "banner": "img/redesign/logistics-hero-branded.jpg"
+  },
+  {
+    "page": "networks.html",
+    "banner": "img/redesign/nationwide-network-branded.jpg"
+  },
+  {
+    "page": "odc.html",
+    "banner": "img/redesign/oversized-transport-branded.jpg"
+  },
+  {
+    "page": "office-relocation.html",
+    "banner": "img/redesign/office-moving-branded.jpg"
+  },
+  {
+    "page": "packaging-services.html",
+    "banner": "img/redesign/professional-packing-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-agra.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-ahmedabad.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-bangalore.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-banswadi.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-bellandur.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-bhopal.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-bhubaneswar.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-bommanahalli.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-brookfield.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-btm-layout.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-chandigarh.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-chennai.html",
+    "banner": "img/redesign/city-coastal-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-coimbatore.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-cv raman nagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-delhi.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-domlur.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-electronic-city.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-faridabad.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-ghaziabad.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-gurgaon.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-haryana.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-hebbal.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-horamavu.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-hsr-layout.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-hyderabad.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-indiranagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-indore.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-jaipur.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-jamshedpur.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-jayanagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-jp nagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kadugudi.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kanpur.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kengeri.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kochi.html",
+    "banner": "img/redesign/city-coastal-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kolkata.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kormangala.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-kr puram.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-lucknow.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-madiwala.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-madurai.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-mahadevpura.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-malleswaram.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-mangalore.html",
+    "banner": "img/redesign/city-coastal-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-marathahalli.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-mumbai.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-nagarbhavi.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-noida.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-old-airport-road.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-patna.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-pune.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-punjab.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-rajajinagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-ramamurthi nagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-ranchi.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-rr nagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-rt nagar.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-sarjapur road.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-surat.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-thane.html",
+    "banner": "img/redesign/city-metro-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-thiruvananthapuram.html",
+    "banner": "img/redesign/city-coastal-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-tiruchirappalli.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-ulsoor.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-vadodara.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-verthur.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-vijayawada.html",
+    "banner": "img/redesign/city-residential-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-visakhapatnam.html",
+    "banner": "img/redesign/city-coastal-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-whitefield.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-yelehanka.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "packers-and-movers-yemalur.html",
+    "banner": "img/redesign/city-bangalore-moving-branded.jpg"
+  },
+  {
+    "page": "relocation.html",
+    "banner": "img/redesign/relocation-moving-branded.jpg"
+  },
+  {
+    "page": "services.html",
+    "banner": "img/redesign/moving-services-branded.jpg"
+  },
+  {
+    "page": "supply-chain.html",
+    "banner": "img/redesign/supply-chain-branded.jpg"
+  },
+  {
+    "page": "thanks.html",
+    "banner": "img/redesign/move-delivered-branded.jpg"
+  },
+  {
+    "page": "warehousing-and-storage.html",
+    "banner": "img/redesign/warehouse-storage-branded.jpg"
+  },
+  {
+    "page": "wooden-packaging.html",
+    "banner": "img/redesign/wooden-crates-branded.jpg"
+  }
+]

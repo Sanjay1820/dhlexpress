@@ -1,0 +1,12 @@
+{
+  "name": "dhlr-express-home-preview",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-home.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
