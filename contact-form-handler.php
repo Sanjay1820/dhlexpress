@@ -14,9 +14,7 @@ $mobile = $_POST['mobile'];
 $email_address = $_POST['email']; 
 $message = $_POST['message']; 
 
-if (!preg_match(
-"/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/i", 
-$email_address))
+if (!filter_var($email_address, FILTER_VALIDATE_EMAIL))
 {
     $errors .= "\n Error: Invalid email address";
 }
